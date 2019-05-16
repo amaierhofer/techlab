@@ -1,6 +1,6 @@
 # Lab 7: Troubleshooting, was ist im Pod?
 
-In diesem Lab wird aufgezeigt, wie man im Fehlerfall und Troubleshooting vorgehen kann und welche Tools einem dabei zur Verfügung stehen.
+In diesem Lab wird aufgezeigt, wie man im Fehlerfall und bei Troubleshooting vorgehen kann und welche Tools einem dabei zur Verfügung stehen.
 
 ## In Container einloggen
 
